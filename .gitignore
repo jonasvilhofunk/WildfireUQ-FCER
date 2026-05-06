@@ -1,0 +1,11 @@
+/WildfireSpreadTS_HDF5/*
+!/WildfireSpreadTS_HDF5/.gitkeep
+
+/pretrained_weights/**/*.pth
+/results/*
+!/results/.gitkeep
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
